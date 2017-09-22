@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "axios": "^0.16.2",
+    "gravatar-url": "^2.0.0",
     "jwt-decode": "^2.2.0",
     "prop-types": "^15.5.10",
     "react": "^15.6.1",
@@ -15,8 +16,9 @@
     "redux": "^3.7.2",
     "redux-devtools-extension": "^2.13.2",
     "redux-thunk": "^2.2.0",
+    "reselect": "^3.0.1",
     "semantic-ui-css": "^2.2.12",
-    "semantic-ui-react": "^0.72.0",
+    "semantic-ui-react": "^0.73.1",
     "validator": "^8.1.0"
   },
   "scripts": {
