@@ -1,3 +1,7 @@
+Some Basic Information about React-
+React is a front-end Library which is developed by Facebook which makes it very easy to make responsive and custom websites. It uses a component based system to divide all the little features in different components which can be later used anywhere in the app(just like use of functions in any other programming language.). 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
